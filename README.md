@@ -2,7 +2,7 @@
 
 Final-Year Computer Science Student at Universiti Teknologi PETRONAS (UTP).
 
-I am interested in developing practical solutions using Artificial Intelligence, Machine Learning, Computer Vision, Data Analytics, and Software Development. I enjoy exploring new technologies and applying them to real-world projects, especially in automation, intelligent systems, and data-driven applications.
+I'm interested in developing practical solutions using Artificial Intelligence, Machine Learning, Computer Vision, Data Analytics, and Software Development. I enjoy exploring new technologies and applying them to real-world projects, especially in automation, intelligent systems, and data-driven applications.
 
 ## Software & Technologies
 
