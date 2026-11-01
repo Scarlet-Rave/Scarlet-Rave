@@ -2,9 +2,9 @@
 
 Final-Year Computer Science (Data Analytics) Student at Universiti Teknologi PETRONAS.
 
-Interested in Artificial Intelligence, Machine Learning, Data Analytics, Computer Vision, and Software Development.
+I am interested in developing practical solutions using **Artificial Intelligence, Machine Learning, Computer Vision, Data Analytics, and Software Development**. I enjoy exploring new technologies and applying them to real-world projects, especially in automation, intelligent systems, and data-driven applications.
 
-## Tech Stack
+## Software & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
